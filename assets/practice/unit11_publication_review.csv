@@ -1,0 +1,7 @@
+item_id,item_title,format,creator,rights_evidence,privacy_issue,suggested_review_status,accessibility_action
+LIB-001,Fictional library-front photograph,Photo,Fictional A. Example,CC BY 4.0 (simulated),none,public if credited,Alt text / T-A-S-L
+LIB-002,Fictional author reading excerpt,Audio,Fictional speaker,permission for classroom only,recording permission only,restrict pending public permission,Transcript / consent scope
+LIB-003,Fictional exhibition icon,SVG,Student-generated,original student work,none,public with documented authorship,Accessible label
+ARC-001,Fictional committee register,PDF,Fictional institutional archive,status requires review,personal identifiers,restrict,Provenance / verified redaction
+ARC-002,Fictional oral-history transcript,TXT,Fictional interviewee,fictional signed recording consent,third-party private address,restricted derivative only after approval,Consent scope / redaction
+ARC-003,Fictional historic event flyer,Image,Unknown,unknown,none apparent,escalate rights review,Source uncertainty

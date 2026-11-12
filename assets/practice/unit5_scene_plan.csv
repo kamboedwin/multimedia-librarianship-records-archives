@@ -1,0 +1,5 @@
+Scene,Time,Visual,Script / narration,Purpose
+1,00–06 sec,FIND A RESOURCE; Fictional digital catalogue,Welcome. This demo shows how to find a resource in a fictional library catalogue.,01  /  Define the learning task
+2,06–12 sec,SEARCH A TITLE OR SUBJECT; Type: climate,"Choose the search box and enter a title or subject. For example, enter climate.",02  /  Show the search input
+3,12–18 sec,READ THE RESULTS; Title  •  Location  •  Availability,"Read the result. Check the title, location and availability before choosing an item.",03  /  Interpret the result
+4,18–24 sec,OPEN THE RECORD; Access details  •  Ask for help,Open the record for more information. Ask library staff if you need assistance.,04  /  Decide the next step

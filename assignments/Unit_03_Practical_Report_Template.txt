@@ -1,0 +1,31 @@
+UNIT 3 — IMAGE EDITING PRACTICAL REPORT TEMPLATE
+Name / registration number:
+Programme (BLISS / BRIM):
+Date:
+
+A. SOURCE AND PURPOSE
+Source identifier / filename:
+Owner / permission / synthetic status:
+Intended user and output:
+Original pixel dimensions:
+Original size (actual bytes):
+
+B. WORKFLOW AND LOG
+Working-copy filename:
+Operations used (crop, resize, brightness, contrast, other):
+Why each operation was necessary:
+Output filename, pixel dimensions, format, actual size:
+Quality check and legibility notes:
+Any context lost or changed:
+
+C. OCR / TRANSCRIPTION
+Was OCR appropriate? Why?
+Recognised or typed text:
+Corrections made and evidence used:
+Uncertain readings:
+
+D. PROFESSIONAL JUSTIFICATION
+How is the master protected?
+How is the access derivative labelled and linked to the source?
+What accessibility and publication-rights checks were made?
+What would you improve next time?

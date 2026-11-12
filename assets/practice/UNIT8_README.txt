@@ -1,0 +1,1 @@
+Unit 8 classroom samples are synthetic; the images do not represent actual archival records. The defective JPEG is an intentionally damaged derivative for the QC exercise. Keep the clear PNG for comparison. Do not mistake these for evidence of a real event.

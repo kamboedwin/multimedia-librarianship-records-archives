@@ -1,0 +1,1 @@
+Unit 7 contains fictional HTML navigation activities embedded in index.html. Use the course website to perform the interactive labs. This folder contains no restricted records. Export your own storyboard via the Unit 7 builder or use the provided template in assignments.

@@ -1,0 +1,4 @@
+BRIM training series
+Item: ARC-REC-001
+Fictional committee minutes
+Access: RESTRICTED (simulation)

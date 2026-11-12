@@ -1,0 +1,15 @@
+Multimedia | Unit 08 | Application Assignment — Digitisation Plan and Quality Audit
+
+BLISS: Develop a small digitisation plan for a fictional local history photo-and-leaflet collection for library discovery.
+BRIM: Develop a controlled digitisation plan for a fictional 12-page administration file with access restrictions.
+
+Required evidence (submit one combined report, suggested 4–6 pages):
+A. Source description, intended users and selection justification.
+B. Workflow diagram and inventory/expected-item manifest.
+C. Equipment and capture settings with a reasoned resolution choice and one calculation.
+D. Format, master/derivative, naming, metadata and storage strategy.
+E. QA/QC checklist, at least three simulated failures and a rework/acceptance log.
+F. OCR plan and verification, security, rights and final release controls.
+
+Illustrative formative 20-mark rubric: planning and selection (4), capture choices/calculation (4), QC evidence and corrective actions (5), documentation and record traceability (4), publication/ethics and presentation (3).
+The assignment is not submitted by marking it complete on the course website; follow lecturer instructions for actual submission.

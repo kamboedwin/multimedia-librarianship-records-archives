@@ -1,0 +1,2 @@
+Unit 6 — File Formats, Compression and Delivery
+These images are derivatives of an entirely fictional record already used in Unit 3. The three new files have the same pixel dimensions, but different compression/settings. JPEG q30/q80 labels identify encoder quality settings, not a universal quality score. Real sizes are in unit6_comparison_manifest.csv. Compare visible text, not only sizes. Unit 4 WAV/MP3 and Unit 5 MP4 are synthetic media. No personal or restricted records are included.

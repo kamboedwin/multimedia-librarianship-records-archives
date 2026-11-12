@@ -1,0 +1,25 @@
+Multimedia in Information Services — Unit 6 Application Assignment
+Courses: LIU08106 (BLISS III) / RIU08106 (BRIM III)
+
+Goal: propose and test a defensible file-format and delivery workflow for one information resource pack. This is a formative learning task, not necessarily a graded institutional assessment. Follow class announcements for actual submission details.
+
+Choose ONE context:
+BLISS — A student digital-library pack: one image containing fine text, a 3-minute catalogue tutorial, a spoken guide and a concise text alternative.
+BRIM — A fictional archival exhibition package: one synthetic scanned record, a fictional oral-history snippet and a short annotated video. State source/derivative links, rights and restrictions explicitly.
+
+Required evidence:
+1. Audience, purpose and constraints (mobile access, legal conditions, readability, sustainability).
+2. Three-row image/audio/video format matrix with at least one controlled source and an access derivative where justified.
+3. Measured same-source image comparison of the three supplied fictional images; calculate file ratio and percentage saving for two versions.
+4. Correctly labelled raw image or PCM audio estimate and compressed video/transfer estimate, including assumptions.
+5. A manifest of files and roles, and at least four release checks: content legibility, playback/compatibility, permissions, captions/transcript, checksum/metadata as relevant.
+6. 200–300 word reasoned recommendation and an honest limitation of your tests.
+
+Illustrative practice rubric /20:
+Appropriate formats and justified source/access roles 5;
+correct calculations and measured compression comparisons 5;
+format and delivery matrix, user/device/accessibility considerations 4;
+provenance, rights, manifest and checks 4;
+clear report and stated limitations 2.
+
+Submission: use the method and deadline announced by the lecturer. The website completion button does not upload work.

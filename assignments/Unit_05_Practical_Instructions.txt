@@ -1,0 +1,20 @@
+Multimedia in Information Services · Unit 05 · Guided Practical
+LIU08106 (BLISS III) / RIU08106 (BRIM III)
+
+TOPIC: Plan and evaluate accessible multimedia video
+Suggested lab time: 80–110 minutes.
+
+1. Watch the provided fictional 24-second training MP4 and turn on its VTT captions.
+2. Record a one-sentence audience/learning objective and list the four scenes in order.
+3. Compare shot framing: wide, medium and close-up; explain when each communicates best.
+4. Calculate frames in 10 seconds at 12, 24 and 30 fps.
+5. Estimate 120 seconds of 3 Mb/s video plus 128 kb/s audio in MB and MiB.
+6. Check and intentionally alter VTT cue timing; correct the error before submission.
+7. Build a four-scene BLISS or BRIM storyboard; include text or narration alternatives.
+8. Record a rights and authenticity decision; use fictional materials for confidential examples.
+9. Complete metadata, editing, caption-verification and playback quality checklists.
+
+Allowed tools: a phone or laptop video editor, VLC, the provided offline browser site and any locally available image editor. No commercial subscription required. If recording is impossible, use the synthetic clip and provide a careful documented redesign rather than a live-person recording.
+
+Hand-in for practical review: objective; storyboard; calculations; corrected VTT; brief metadata and edit/rights assessment; quality reflections.
+The instructor will announce actual submission channels and deadlines.

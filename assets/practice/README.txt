@@ -1,0 +1,1 @@
+Synthetic training-only files. sample_record_master.png is the unedited classroom source. sample_record_access.jpg is a pre-made downsampled JPEG derivative to demonstrate that access formats and master formats may differ. Do not interpret them as historical records.

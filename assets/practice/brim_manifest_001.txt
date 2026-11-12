@@ -1,0 +1,3 @@
+BRIM training manifest
+Item: ARC-MAN-001
+Invented sample for SHA-256 checking

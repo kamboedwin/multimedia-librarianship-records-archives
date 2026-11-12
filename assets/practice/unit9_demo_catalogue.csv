@@ -1,0 +1,9 @@
+﻿identifier,title,type,date,subject,language,access,programme,creator,description,collection
+LIB-IMG-014,Local history training poster,StillImage,2025-01-10,Local history,en,public,BLISS,Training Media Team,Fictional illustrated poster about local history services.,LIB-COLL-01
+LIB-AUD-003,Library orientation audio guide,Sound,2025-02-13,Student orientation,en,public,BLISS,Training Media Team,Synthetic narrated audio guide to library desks and services.,LIB-COLL-01
+LIB-VID-008,How to use the library catalogue,MovingImage,2025-03-07,Information literacy,en,public,BLISS,Training Media Team,Fictional instructional catalogue-search video with captions.,LIB-COLL-02
+LIB-IMG-020,Community reading day photograph,StillImage,2024-08-09,Community events,sw,public,BLISS,Training Media Team,Invented photograph caption for a community reading event.,LIB-COLL-03
+ARC-MIN-007,Fictional committee meeting minutes,Text,2024-05-17,Administrative decisions,en,restricted,BRIM,Training Records Office,Classroom example of controlled minutes with fictional contents.,ARC-SER-04
+ARC-AUD-002,Records office oral-history practice,Sound,2025-02-11,Records services,sw,internal,BRIM,Training Records Office,Synthetic interview narration for internal learning use.,ARC-SER-03
+ARC-IMG-006,Historic office building training scan,StillImage,2023-11-20,Institutional history,en,public,BRIM,Training Records Office,Fabricated archival scan with no actual personal records.,ARC-SER-02
+ARC-VID-011,Records transfer procedure demonstration,MovingImage,2025-06-04,Records transfer,en,internal,BRIM,Training Records Office,Simulation showing records transfer with role-based access.,ARC-SER-04

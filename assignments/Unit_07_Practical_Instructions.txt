@@ -1,0 +1,18 @@
+Multimedia in Information Services · Unit 7
+GUIDED PRACTICAL — MULTIMEDIA AUTHORING AND USER NAVIGATION
+Suggested duration: 100–120 minutes. Use only fictional or cleared materials.
+
+Goal: build and test a five-screen interactive guide/exhibition with a meaningful navigation path.
+
+1. Pick a professional scenario: BLISS library orientation OR BRIM fictional mini-exhibition.
+2. Write one named intended-user goal and three tasks the site should support.
+3. Draw a five-node sitemap, all directed links, and the path from Home to each task.
+4. Prepare a storyboard table: screen ID, purpose, heading, media, primary action, back/home route, alternative text/rights.
+5. Build a small prototype in HTML/CSS/JavaScript or another approved authoring tool. Buttons must have genuine actions and links valid destinations.
+6. Insert at least one meaningful multimedia element and a usable text alternative; avoid autoplay.
+7. Test with keyboard only, 200% zoom or a small window, and at least one peer user task.
+8. Record broken links, missing labels, confusing navigation and any unaddressed risks; make and retest a repair.
+9. Package a working prototype plus source assets (not restricted real records) and a concise report.
+
+Expected evidence: sitemap; storyboard; working prototype; credits/rights note; test log; one before/after improvement; limitations.
+No external accounts or GitHub deployment are necessary to complete the classroom practical.

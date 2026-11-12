@@ -1,0 +1,21 @@
+
+LIU08106 / RIU08106 — Unit 6 Practical: Format and Delivery Decision Lab
+
+Purpose: choose defensible delivery files while keeping appropriate controlled sources. Work individually or in an assigned pair.
+Suggested practical time: 80–110 minutes.
+
+Part A: Same-source fictional image comparison
+1. Open unit6_fictional_record_lossless.png, unit6_fictional_record_jpeg_q30.jpg and unit6_fictional_record_jpeg_q80.jpg. Note all are 1200 × 800 pixels and contain the same synthetic source image. Compare legibility of fine labels at 100% and at an ordinary phone view.
+2. Record measured byte sizes from file properties or the supplied manifest CSV. Calculate source/output ratios and percent saved for each JPEG. A high-quality JPEG may be larger than the PNG; explain why this does not invalidate the measurement.
+3. Calculate raw 24-bpp pixel storage for 1200 × 800 pixels and compare with actual files. Explain why encoded sizes are different.
+
+Part B: Audio and video
+4. Use the synthetic Unit 4 narration WAV and MP3. Inspect byte size, listen to speech, record suitability for controlled source vs listening access. The files represent the same narrated content; note any metadata or encoding differences.
+5. Inspect the Unit 5 synthetic MP4 video and its captions/transcript. Estimate hypothetical storage for 180 s of 2.5 Mb/s video plus 128 kb/s audio. Estimate ideal transfer time for a 40 MB file over 2 Mb/s and identify real-world limitations.
+
+Part C: Professional decision and release plan
+6. Select a BLISS digital-library or BRIM fictional-archives example. Provide a decision matrix with purpose, source/working/access file, technical properties, rights, accessibility alternatives, delivery assumptions and check methods.
+7. Complete a simple manifest with file name, role, bytes, format/codec, source relationship, permissions/access status, validation result.
+8. Test one delivery file on a second device or browser where possible; record what was tested and what remains uncertain.
+
+Output: short report (3–5 pages or equivalent), comparison table, calculations with units, matrix, manifest and one screenshot of a relevant visual comparison. Use only synthetic/authorised content. No confidential records in any public GitHub upload.

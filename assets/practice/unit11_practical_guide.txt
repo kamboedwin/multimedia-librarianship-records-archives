@@ -1,0 +1,11 @@
+UNIT 11 — FICTIONAL RIGHTS, ETHICS AND ACCESSIBILITY PRACTICAL
+
+No real identifiable people or confidential institutional records are used.
+
+1. Open unit11_publication_review.csv. Review each of the six fictional media items.
+2. Fill the blank rights register with justified decisions: publish, restrict, replace or escalate. The suggested status is educational, not legal advice.
+3. Write a complete attribution for fictional LIB-001, noting the licence is simulated and not proof of a real image licence.
+4. For ARC-002, explain how the private address could be protected in access copies, without deleting source evidence.
+5. Use the keyboard and contrast exercises in the student website; record limitations and fixes in the accessibility template.
+6. Examine whether a proposed AI transcription/translation workflow would disclose protected records to a third-party provider.
+7. Submit a 3–5 page report and completed templates. Do not upload personal data from a real person.

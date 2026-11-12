@@ -1,0 +1,18 @@
+Unit 6 — File Formats, Compression and Delivery
+Name/group: __________________  Programme: BLISS / BRIM  Date: __________
+
+1. Intended audience and resource:
+2. Purpose and constraints (device/network/legal/accessibility):
+3. Image comparison (same synthetic source):
+Filename | Bytes | MB (decimal) | Compression ratio vs PNG | Saving % | Legibility observation
+4. Image raw storage formula and result with units:
+5. Audio comparison (WAV/MP3) — measured bytes and speech observations:
+6. Compressed video size calculation (inputs, formula, units, assumptions):
+7. Ideal transfer-time calculation (inputs, formula, units, limitations):
+8. Format decision matrix:
+Media | Source/managed copy | Access copy | Why | Validation | Rights
+9. File manifest:
+Item ID | File name | Role | Bytes | Type/codec | Derived from | Access status | Check result
+10. Device/accessibility check:
+11. Final recommendation (200–300 words):
+12. Limitations and what you would verify next:

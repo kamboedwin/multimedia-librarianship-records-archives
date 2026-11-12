@@ -1,0 +1,21 @@
+Multimedia in Information Services · Unit 05 Assignment
+LIU08106 BLISS III / RIU08106 BRIM III
+
+TASK
+Produce a short 60–90 second professional video that explains one information-service task; or, where equipment/permission is limited, provide an instructor-approved redesign/evaluation of the synthetic training video.
+
+BLISS: make a library orientation/catalogue tutorial.
+BRIM: make a fictional records workflow or authorised archival interpretation video.
+
+REQUIRED OUTPUTS
+1. Audience and measurable learning objective.
+2. Four-scene storyboard with durations, visuals, narration and a shot list.
+3. Edited access MP4 (60–90 seconds) or approved alternative demonstration.
+4. Verified WebVTT captions and descriptive transcript.
+5. File metadata, edit/version log and permission inventory.
+6. Quality/accessibility check and brief mobile/low-bandwidth evaluation.
+
+FORMATIVE RUBRIC /20
+Planning/purpose 4; production/editing 5; captions/accessibility 4; metadata/rights/source control 4; QA/reflection 3.
+
+Never upload real personal or restricted records or third-party video without appropriate authorisation. Name synthetic/re-enacted material honestly. Keep original source media separate from exports. A completion button on the website is not an assignment submission; use the official method announced in class.

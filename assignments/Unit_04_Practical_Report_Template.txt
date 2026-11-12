@@ -1,0 +1,42 @@
+MULTIMEDIA · UNIT 04 PRACTICAL REPORT TEMPLATE
+
+Student/group identifier (as required by class): _____________________
+Course:  LIU08106 (BLISS) / RIU08106 (BRIM)  (circle one)
+Project title: _____________________________________________________
+
+1. Target audience and purpose (3–5 sentences)
+
+2. Source audio details
+Source identifier / path: _______________
+Is the source synthetic or authorised? ________
+Duration: ______ Sample rate: ______ Bit depth: ______ Channels: ______
+Source format/codec: __________ Source file size: _______
+
+3. Working copy and edit log
+Date | Operation | Reason | File/version | Quality observation
+____ | _________ | ______ | ____________ | _________________
+
+4. Exported access copy
+Filename: ___________________ Format/codec: _______
+Bitrate (where applicable): ______ File size: ______ Duration: ______
+
+5. Transcript quality check
+Transcript filename: __________
+Names, numbers, language and unclear passages checked? Explain: ______
+
+6. Metadata and access controls
+Title: ______ Identifier: ______ Date: ______ Language: ______
+Narrator/source and permission: __________
+Rights/access status: __________
+Source-to-access relationship: __________
+
+7. Professional reflection (BLISS or BRIM)
+How does the result serve your audience? What risks did you identify?
+
+8. Quality checklist
+[ ] No unexpected missing content  [ ] Speech intelligible
+[ ] No clipping or damaging effects  [ ] Transcript checked
+[ ] Source protected  [ ] Export independently checked
+[ ] Appropriate permissions and access restrictions reviewed
+
+Submission route: follow lecturer/class instructions; marking progress on the website does not submit work.

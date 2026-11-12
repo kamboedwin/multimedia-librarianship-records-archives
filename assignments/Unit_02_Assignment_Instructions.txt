@@ -1,0 +1,44 @@
+LIU08106 / RIU08106 | UNIT 02 APPLICATION ASSIGNMENT
+TITLE: DESIGN A CLEAR, RESPONSIBLE VISUAL INFORMATION RESOURCE
+
+Choose your programme pathway:
+BLISS III: design a one-page digital poster or infographic helping library users
+find or use a genuine service (for example, library orientation, e-resources
+access or information-literacy event).
+BRIM III: design a one-page archival item display or records-management
+information card (for example, a mini-exhibition entry with source context).
+
+OUTPUTS
+A. One digital design in PDF/PNG format, sized and labelled for an intended
+  screen or page; student-generated artwork and/or authorised assets only.
+B. A one- to two-page design rationale (PDF or DOCX) including:
+  - audience and communication objective;
+  - intended medium, dimensions, any relevant PPI reasoning;
+  - whether assets are raster or vector and why;
+  - colour and typography choices;
+  - explanation of hierarchy, alignment, spacing and grouping;
+  - accessibility check (legibility, meaningful labels, colour contrast);
+  - sources/permissions and, in BRIM, how context and master integrity are
+  maintained;
+  - brief peer feedback and one implemented improvement.
+
+RECOMMENDED PROCESS
+1. Draft a content outline before choosing styles.
+2. Sketch two layouts; choose one with a clear reason.
+3. Create the design using tools already available to you (e.g. PowerPoint,
+  LibreOffice Impress, Canva, or other permitted software).
+4. Review it at mobile size and check basic contrast.
+5. Document source imagery; do not use restricted records or personal data.
+
+PRACTICE RUBRIC - 20 marks
+Problem/audience and required information  4
+Technical decisions (dimensions, images, colour)  4
+Hierarchy, typography and visual clarity  5
+Accessibility and responsible use of source  4
+Rationale, peer check and organisation  3
+TOTAL  20
+
+Suggested length: design + 1-2 pages of rationale.
+Deadline and official submission method: see class announcements.
+This is a practice brief unless the lecturer formally assigns it.
+The completion checkbox on the site is not a submission.

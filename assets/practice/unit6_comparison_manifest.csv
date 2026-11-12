@@ -1,0 +1,7 @@
+filename,bytes,content_or_role,note
+unit6_fictional_record_lossless.png,49692,same-source synthetic fictional record image,Classroom comparison; check actual properties and user access before adopting a format
+unit6_fictional_record_jpeg_q30.jpg,39184,same-source synthetic fictional record image,Classroom comparison; check actual properties and user access before adopting a format
+unit6_fictional_record_jpeg_q80.jpg,68420,same-source synthetic fictional record image,Classroom comparison; check actual properties and user access before adopting a format
+unit4_training_narration.wav,2619076,synthetic narration,Classroom comparison; check actual properties and user access before adopting a format
+unit4_training_narration.mp3,218924,synthetic narration,Classroom comparison; check actual properties and user access before adopting a format
+unit5_training_clip.mp4,455790,synthetic training video,Classroom comparison; check actual properties and user access before adopting a format

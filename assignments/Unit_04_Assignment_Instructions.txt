@@ -1,0 +1,31 @@
+UNIT 04 — AUDIO IN MULTIMEDIA SYSTEMS
+LIU08106 (BLISS III) / RIU08106 (BRIM III)
+
+GUIDED PRACTICAL: CREATE AN ACCESSIBLE AUDIO RESOURCE
+Suggested time: 70–100 minutes (flexible according to devices).
+
+Purpose
+Practise a complete audio information-service workflow, from source protection to an access copy and verified transcript.
+
+Materials
+Use the synthetic WAV/MP3/transcript files in assets/practice/, OR record your own 30–60 second authorised narration. Do not record real people or confidential records without appropriate permission.
+
+Steps
+1. State a BLISS or BRIM audience and a single communication purpose.
+2. Record or import a source WAV. Note filename, duration, sample rate, bit depth, channels and actual file size.
+3. Play the full recording and note quality problems.
+4. Duplicate or protect the source. Edit only a working version with Audacity or an equivalent editor.
+5. Make one justified improvement, such as trimming an artificial delay or reducing constant noise modestly. Do not delete meaningful evidence.
+6. Export an access MP3 at a documented bitrate and meaningful filename.
+7. Compare playback quality, duration and actual saved file sizes.
+8. Prepare or correct the complete narration transcript; check names, numbers and keywords.
+9. Create a short metadata record: ID, title, date, narrator/source, language, duration, format, file roles, rights/access.
+10. Complete the report template; explain one professional risk and how your approach mitigates it.
+
+Submission
+- source or a reference to a permitted source file;
+- access derivative (or a permitted demonstration output);
+- checked transcript as TXT/PDF;
+- one-page metadata + edit log + quality-control report.
+
+Important: where the source recording is restricted, do not submit or upload its sound; use approved synthetic material instead. Use the submission method announced in class.

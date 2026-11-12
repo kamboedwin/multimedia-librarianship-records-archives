@@ -1,0 +1,5 @@
+source_id,expected_page_id,actual_file_name,status,defect,rework_action,reviewer,review_date,release_approved
+ARCH012,ARCH012_p001,ARCH012_p001_master.png,pass,,none,,,no
+ARCH012,ARCH012_p002,ARCH012_p002_master.png,pass,,none,,,no
+ARCH012,ARCH012_p003,ARCH012_p003_master.png,rework,clipped right margin,recapture with adequate border,,,no
+ARCH012,ARCH012_p004,,hold,missing page,locate and capture page 4,,,no

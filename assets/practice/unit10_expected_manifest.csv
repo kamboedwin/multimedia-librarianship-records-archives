@@ -1,0 +1,5 @@
+filename,algorithm,expected_sha256,note,demo_status
+bliss_exhibition_001.txt,SHA-256,05778eb6cbc1156e39c3eebb607c6647cd9e1d48289f72244cdaac6a696a5d3c,baseline at ingest,PASS
+brim_minutes_001.txt,SHA-256,17cc0bb209e05f23d0d18033bb7d029a2ef0b33853e84e014e075953c42e5412,baseline at ingest,PASS
+bliss_audio_001.txt,SHA-256,76f203d113419453a6e6db3ca09b71476967a133939b280f3cb092eab273cc72,baseline at ingest,PASS
+brim_manifest_001.txt,SHA-256,9776ef5ec27c3d3a53741eb12ab72d5646e1a9881fc732f30db172ec26af0f72,baseline at ingest,PASS

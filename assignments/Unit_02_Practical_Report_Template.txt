@@ -1,0 +1,36 @@
+LIU08106 / RIU08106 | UNIT 02 GUIDED PRACTICAL REPORT
+DIGITAL MEDIA FUNDAMENTALS AND VISUAL COMMUNICATION
+
+Student name / registration no.:
+Programme: BLISS III / BRIM III
+Activity title:
+Date:
+
+PART A - TECHNICAL OBSERVATIONS
+1. Selected source (describe and identify an authorised or openly licensed item):
+2. Raster or vector? Why?
+3. Pixel dimensions (if raster):
+4. Aspect ratio (show calculation):
+5. Intended delivery: screen / print / both
+6. PPI/DPI considerations (explain, do not guess):
+7. Colour mode / colour space and any relevant uncertainties:
+8. Estimate uncompressed pixel bytes if applicable (show formula):
+
+PART B - TWO DRAFT DESIGN VARIANTS
+9. Target audience and their main task:
+10. Title and essential message:
+11. Draft A: describe or sketch layout and typography:
+12. Draft B: describe or sketch improvements:
+13. Explanation of hierarchy, alignment, proximity and contrast:
+14. Accessibility checks (contrast, labels, readable text, non-colour cues):
+
+PART C - PROFESSIONAL RESPONSIBILITY
+15. BLISS: how does this design improve discovery, orientation or learning?
+  BRIM: how does the design preserve record context and avoid misleading edits?
+16. Source and any reuse permission/attribution:
+17. Quality test: ask one peer to locate the essential information;
+  record their response and one justified improvement.
+
+CONCLUSION - 100-150 words explaining the recommended design.
+
+Submit using the lecturer's announced method. The website does not submit work.

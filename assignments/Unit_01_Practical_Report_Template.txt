@@ -1,0 +1,38 @@
+UNIT 1 GUIDED PRACTICAL — MULTIMEDIA SERVICE AUDIT
+LIU08106 / RIU08106 · BLISS III / BRIM III
+
+Student name/group: ____________________________________
+Programme: BLISS / BRIM
+Date: __________________
+
+1. SERVICE SELECTED
+Name or short description: ____________________________________
+Purpose and target audience: ____________________________________
+
+2. MEDIA AUDIT
+Element | Present? | Example | Purpose for users
+Text  |  |  |
+Image  |  |  |
+Audio  |  |  |
+Video  |  |  |
+Animation|  |  |
+Interaction |  |  |
+
+3. NAVIGATION
+Linear / non-linear / hybrid? Why?
+_____________________________________________________________
+
+4. EVALUATION
+Two benefits: 1. __________ 2. __________
+Two limitations: 1. ______ 2. __________
+
+5. RECOMMENDED IMPROVEMENT
+Change: __________________________________________________
+Users helped: ______________________________________________
+How you would test it: _____________________________________
+
+6. SOURCES, RIGHTS OR ACCESS CONSIDERATIONS
+_____________________________________________________________
+
+Keep the report to approximately 1–2 pages, excluding any diagram.
+Use the submission channel announced in class; this template is not a submission link.

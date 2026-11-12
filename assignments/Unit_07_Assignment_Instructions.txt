@@ -1,0 +1,24 @@
+Unit 7 — MULTIMEDIA AUTHORING PROJECT (FORMATIVE)
+LIU08106 / RIU08106
+
+BLISS: interactive digital library orientation (search, borrowing and help).
+BRIM: fictional interactive archives mini-exhibition (timeline, item context and rights).
+
+Deliverable: working 4–6 screen multimedia prototype with start screen, meaningful navigation, at least one image/audio/video component with appropriate alternatives, and a rights/attribution section.
+
+Required accompanying report (suggested 2–4 pages):
+- named audience and two or three measurable user tasks;
+- sitemap and screen storyboard;
+- brief tool choice and reasoning;
+- asset register with source, format, rights and alternative-text / transcript decisions;
+- keyboard, navigation, reflow and peer-task testing log;
+- one concrete revision and retest; limitations and reference list.
+
+Formative 20-mark rubric:
+4: User goals, sitemap, purposeful screen/storyboard structure.
+4: Working navigation, meaningful links/actions and recovery paths.
+4: Multimedia quality, context, provenance and rights/attribution.
+4: Accessibility and task-based usability evidence with fixes.
+4: Organisation, documentation, clarity and honest limitations.
+
+Use the official class submission channel and deadline when announced. The site does not upload or collect student work.
