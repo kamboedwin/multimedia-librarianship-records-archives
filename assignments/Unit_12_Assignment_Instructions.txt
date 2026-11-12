@@ -1,0 +1,21 @@
+MULTIMEDIA IN INFORMATION SERVICES | UNIT 12 CAPSTONE BRIEF
+
+Select ONE pathway:
+BLISS: Interactive digital-library orientation or exhibition.
+BRIM: Fictional archives/records access and discovery portal.
+
+Required deliverables: (1) problem and audience, (2) functioning 3+ item prototype, (3) sitemap/storyboard, (4) media and source/derivative inventory, (5) basic metadata and stable IDs, (6) appropriate accessible image/media alternatives, (7) rights and access documentation, (8) usability test plan with at least two observed task attempts where feasible, (9) defect/fix/retest log, (10) 5–7-minute demonstration and a 3–5-page reflective report.
+
+Safety: use fictional or clearly authorised materials only. Never publish real restricted records, passwords or identifiable interviews without required authorisation. Do not include lecturer marking documents in the public repository.
+
+ILLUSTRATIVE 100-MARK PROJECT RUBRIC (NOT AN OFFICIAL ASSESSMENT WEIGHT):
+Problem, audience and scope — 10
+Working information architecture / user journey — 15
+Media quality and accessible alternatives — 15
+Metadata, organisation and retrieval — 15
+Rights, privacy, provenance and safe access — 15
+Usability protocol, observations, fixes and retest — 15
+Documentation, delivery and presentation — 15
+TOTAL 100. A proportional 20-mark score may be obtained by dividing by five when appropriate.
+
+Submit through the method announced by the course lecturer; the website progress button is NOT a submission.

@@ -1,0 +1,14 @@
+Multimedia | Unit 08 | Guided Practical: Digitisation Quality-Control Audit
+Suggested laboratory duration: 100–120 minutes. Use only the fictional sample supplied.
+
+1. Review the fictional document image and manifest. Explain why the source is suitable for safe class practice.
+2. Select a BLISS or BRIM workflow and define the target use, audience and source condition.
+3. Use the resolution calculator to estimate pixel dimensions and the uncompressed payload for your hypothetical original.
+4. Review the four expected pages. Identify any missing/duplicated page ID and an image quality fault in the manifest.
+5. Apply the QC simulator to identify cropping, blur, skew or glare; explain the appropriate re-capture action.
+6. Inspect the fictional OCR text against the sample image. List each mismatch and propose a verified correction.
+7. Enter the corrected status in a copy of the manifest and create an exception/rework log.
+8. Recommend file-naming, master/derivative, backup, access and approval decisions.
+9. Submit a 2–3 page quality audit with calculation, inspection checklist and status explanation.
+
+This activity is formative. Access-control and legal policies must be checked for any real records.

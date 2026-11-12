@@ -1,0 +1,10 @@
+Multimedia | Unit 9 Application Assignment
+Create a small searchable metadata catalogue and quality-control report.
+
+BLISS: six digital items for a fictional library learning exhibition; include images, audio and/or video.
+BRIM: six fictional records/archival items forming at least two related series; include appropriate restrictions.
+
+Deliverables: (1) metadata table/CSV with at least 6 items, (2) a documented application profile and field dictionary, (3) a simple item-to-file relationship map, (4) three tested search scenarios and findings, (5) metadata QC findings and corrected records, (6) rights/access policy and reflection.
+Recommended practice rubric (20 marks): metadata consistency and quality 5; selection/profile 4; IDs/relations/provenance 4; testable retrieval 4; rights/ethical decisions/report 3.
+
+Follow the lecturer's current announcement for the official deadline and method. Progress controls on the teaching site do not submit work.

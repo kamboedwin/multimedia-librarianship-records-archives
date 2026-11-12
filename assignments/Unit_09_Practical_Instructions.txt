@@ -1,0 +1,16 @@
+LIU08106 and RIU08106 | Unit 9 Guided Practical — Metadata Lab
+
+Duration: 90–120 minutes. Work only with synthetic or explicitly authorised resources.
+
+1. Open unit9_demo_catalogue.csv. Identify metadata types represented by its columns.
+2. Select three items. Check their titles, IDs, subjects, dates, access and collection relationships.
+3. Design a simple Dublin Core-based record using the on-site builder. Add at least two locally required fields and justify them.
+4. Search the catalogue for "records" using different field scopes; apply format and access filters. Record the results and explain any difference.
+5. Open unit9_quality_audit_sample.csv and identify a duplicated ID, missing title, inconsistent date format and inappropriate release label. Propose corrections with evidence.
+6. Produce an item-to-file diagram for one source master, one access derivative and a transcript or caption where relevant.
+7. For BLISS, describe a small library exhibition item. For BRIM, describe a fictional restricted record with a clear provenance and series link.
+8. Submit: metadata CSV (3 records), validation report, screenshot or table of search results, and one-page reasoning about rights and relationships.
+
+Student self-assessment rubric: metadata accuracy 5, fields/application profile 4, identifiers and relations 3, search evaluation 4, access/ethics 4 = 20 marks.
+
+These files are synthetic. The on-site builder exports JSON in the browser only; it does not submit work.

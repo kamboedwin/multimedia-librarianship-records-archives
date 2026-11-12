@@ -1,0 +1,24 @@
+UNIT 10 — DIGITAL PRESERVATION, SECURITY AND CONTINUITY
+LIU08106 / RIU08106
+
+GUIDED PRACTICAL (90–120 minutes; fictional files only)
+1. Extract the Unit 10 synthetic files. Inspect the expected SHA-256 manifest and independently calculate checksums for all four TXT files.
+2. Contrast the actual calculated results with the deliberately faulty simulated-check CSV. Explain which mismatch is simulated.
+3. Document a safe response to a genuine unexpected fixity mismatch: preserve the evidence, identify which file is affected, check provenance and confirm an independent copy.
+4. Plan a three-copy storage strategy with physical/logical separation, authorised key management and test-restoration responsibility.
+5. Set a proposed RPO and RTO. Given a 4-hour backup interval and 7-hour tested full restoration, evaluate whether an RPO of 2 hours and an RTO of 3 hours could be met.
+6. Write a role-permission table for public readers, cataloguers, records officers, preservation staff and administrators.
+7. Write three risk-register entries and one restoration test log entry, including pass/fail criteria.
+8. Explain how a migrated derivative would be related to the retained original and what validation would be required.
+
+APPLICATION ASSIGNMENT (20 marks — formative)
+BLISS: Preservation and continuity plan for a fictional library exhibition with ten digitised photographs, catalogue records and web derivatives.
+BRIM: Preservation, integrity and restricted-access plan for a fictional institutional committee-record series, including provenance and event history.
+
+SUBMISSION
+A 3–5 page report with a copy diagram, manifest checking evidence, RPO/RTO reasoning, risk register, access matrix, restoration test outline and one short reflection. Use the submission method and due date announced for the course.
+
+RUBRIC /20
+Preservation scope and copies: 4; Fixity and event evidence: 4; RPO/RTO and recovery test: 4; security/access and provenance: 4; risk register and clarity: 4.
+
+IMPORTANT: Marking a task complete on the study site is not coursework submission. These are simulated cases, not actual restricted institutional records.
