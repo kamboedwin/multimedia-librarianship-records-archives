@@ -42,6 +42,3 @@ Quiz results and progress markings on the site are personal study aids, not offi
 
 The website contains teaching examples and licensed or original media where indicated; inclusion here does not automatically grant permission for unrestricted third-party reuse. Do not publish restricted personal information or unauthorised archival material. Lecturer-only question banks and marking schemes are distributed separately and are **not** part of this repository.
 
-## Publishing
-
-Use `index.html` at the repository root and publish the `main` branch's root folder with GitHub Pages.
