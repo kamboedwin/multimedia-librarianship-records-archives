@@ -44,4 +44,4 @@ The website contains teaching examples and licensed or original media where indi
 
 ## Publishing
 
-Use `index.html` at the repository root and publish the `main` branch's root folder with GitHub Pages. See `GITHUB_PUBLISHING.md` for the publishing checklist.
+Use `index.html` at the repository root and publish the `main` branch's root folder with GitHub Pages.
